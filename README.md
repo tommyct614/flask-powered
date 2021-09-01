@@ -25,6 +25,7 @@ List of companies using Flask framework - who is using Flask?
 - [Samsung](https://stackshare.io/engel80/apkg)
 - [Nginx](https://stackshare.io/nginx-inc/nginx-amplify)
 - 1.5k more companies in [https://stackshare.io/flask/](https://stackshare.io/flask/)
+- [Flixboards](https://flixboards.com)
 
 ## Brazil
 
